@@ -133,3 +133,6 @@ dmypy.json
 .ipynb_checkpoints
 
 .DS_STORE
+
+.RData
+.Rhistory
